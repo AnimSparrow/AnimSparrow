@@ -45,14 +45,7 @@ methodology beats copy-paste. Everything below updates itself.
 ### 🎯 TryHackMe — live
 
 <!-- THM:START -->
-<p align="center">
-  <a href="https://tryhackme.com/p/Animsparrow">
-    <img src="assets/thm_badge.svg" alt="TryHackMe stats"/>
-  </a>
-</p>
-<!-- THM_PL:START -->
-<p align="center">🇵🇱 <b>#22 in Poland</b> · <a href="https://tryhackme.com/leaderboards">leaderboard</a></p>
-<!-- THM_PL:END -->
+_Live TryHackMe stats unavailable right now._ · <a href="https://tryhackme.com/p/Animsparrow">View profile →</a>
 <!-- THM:END -->
 
 ---
