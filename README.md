@@ -51,7 +51,7 @@ methodology beats copy-paste. Everything below updates itself.
   </a>
 </p>
 <!-- THM_PL:START -->
-<!-- auto-updated -->
+<p align="center">🇵🇱 <b>#22 in Poland</b> · <a href="https://tryhackme.com/leaderboards">leaderboard</a></p>
 <!-- THM_PL:END -->
 <!-- THM:END -->
 
