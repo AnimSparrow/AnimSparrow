@@ -45,8 +45,11 @@ methodology beats copy-paste. Everything below updates itself.
 ### 🎯 TryHackMe — live
 
 <!-- THM:START -->
-_Statystyki TryHackMe chwilowo niedostepne._
-_(sprawdz THM_USERNAME albo logi workflow)_
+<p align="center">
+  <a href="https://tryhackme.com/p/AnimSparrow">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/AnimSparrow.png" alt="TryHackMe badge"/>
+  </a>
+</p>
 <!-- THM:END -->
 
 ---
@@ -54,7 +57,7 @@ _(sprawdz THM_USERNAME albo logi workflow)_
 ### 📜 Certs (Credly) — live
 
 <!-- CREDLY:START -->
-<p align="center"><b>12</b> zweryfikowanych certyfikatow na Credly</p>
+<p align="center"><b>12</b> verified certifications on Credly</p>
 <p align="center">
   <a href="https://www.credly.com/badges/8ec1e0a6-0fc3-4760-9586-11316183f754/public_url" title="Web Application Pentester Level 1"><img src="https://images.credly.com/images/358bd4ef-5b77-443f-9177-6b28b1def14a/blob" width="90" alt="Web Application Pentester Level 1"/></a>
   <a href="https://www.credly.com/badges/32b68282-1592-4a4c-8e84-53dd3b4077f7/public_url" title="Security Analyst Level 1 (SAL1)"><img src="https://images.credly.com/images/fc0df734-6716-45ba-8563-9fd0eba18373/blob" width="90" alt="Security Analyst Level 1 (SAL1)"/></a>
