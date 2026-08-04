@@ -3,7 +3,7 @@ name: Update profile README
 on:
   schedule:
     - cron: "0 */6 * * *" 
-  workflow_dispatch:         
+  workflow_dispatch:       
   push:
     branches: [ main ]
 
@@ -24,6 +24,7 @@ jobs:
 
       - name: Update README
         env:
+          THM_USER_ID: ${{ vars.THM_USER_ID }}
           THM_USERNAME: ${{ vars.THM_USERNAME }}
           CREDLY_USER: ${{ vars.CREDLY_USER }}
         run: python scripts/update_profile.py
@@ -37,5 +38,5 @@ jobs:
             git commit -m "chore: refresh THM + Credly stats"
             git push
           else
-            echo "Without changes."
+            echo "No changes."
           fi
