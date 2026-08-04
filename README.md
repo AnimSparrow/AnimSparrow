@@ -102,12 +102,3 @@ _Live TryHackMe stats unavailable right now._ · <a href="https://tryhackme.com/
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID_(Azure_AD)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnimSparrow&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimSparrow&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
-</p>
