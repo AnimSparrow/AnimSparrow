@@ -45,11 +45,7 @@ methodology beats copy-paste. Everything below updates itself.
 ### 🎯 TryHackMe — live
 
 <!-- THM:START -->
-<p align="center">
-  <a href="https://tryhackme.com/p/Animsparrow">
-    <img src="assets/thm_badge.svg" alt="TryHackMe stats"/>
-  </a>
-</p>
+_Live TryHackMe stats unavailable right now._ · <a href="https://tryhackme.com/p/Animsparrow">View profile →</a>
 <!-- THM:END -->
 ---
 
