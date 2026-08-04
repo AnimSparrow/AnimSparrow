@@ -30,7 +30,7 @@ methodology beats copy-paste. Everything below updates itself.
 
 ### 🏆 Highlights
 
-- 🥇 **TryHackMe - Top 1% worldwide** · #950 global · #25 in Poland (7M+ users) · 500+ rooms · 120-day streak
+- 🥇 **TryHackMe - Top 1% worldwide** · #780 global · #22 in Poland (8M+ users) · 600+ rooms · 130-day streak
 - 🇬🇧 **6th place - TryHackMe AI Odyssey**, in-person AI-security CTF, London 2026 _(team Chrabąszcze)_
 - 🧠 **Top 6 globally, full score** - AI Odyssey online edition (~3000 teams)
 - 🛡️ **Google Security Champion** - recognized for contributions to the Google SecOps community
