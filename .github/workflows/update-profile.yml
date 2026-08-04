@@ -2,8 +2,8 @@ name: Update profile README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # co 6 godzin
-  workflow_dispatch:          # pozwala odpalic recznie z zakladki Actions
+    - cron: "0 */6 * * *" 
+  workflow_dispatch:         
   push:
     branches: [ main ]
 
@@ -37,5 +37,5 @@ jobs:
             git commit -m "chore: refresh THM + Credly stats"
             git push
           else
-            echo "Brak zmian."
+            echo "Without changes."
           fi
