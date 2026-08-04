@@ -32,7 +32,7 @@ methodology beats copy-paste. Everything below updates itself.
 
 - 🥇 **TryHackMe - Top 1% worldwide** · #950 global · #25 in Poland (7M+ users) · 500+ rooms · 120-day streak
 - 🇬🇧 **6th place - TryHackMe AI Odyssey**, in-person AI-security CTF, London 2026 _(team Chrabąszcze)_
-- 🧠 **Top 8 globally, full score** - AI Odyssey online edition (~3000 teams)
+- 🧠 **Top 6 globally, full score** - AI Odyssey online edition (~3000 teams)
 - 🛡️ **Google Security Champion** - recognized for contributions to the Google SecOps community
 - ⚙️ Built **100+ SOC automations** saving ~150 hours/month of analyst work
 - 🥷 **2nd place** - Microsoft Security FTA *Into The Breach* (live-fire) · Cyberbit Elite Analyst recognition
