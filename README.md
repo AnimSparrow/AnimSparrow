@@ -74,7 +74,11 @@ methodology beats copy-paste. Everything below updates itself.
   <a href="https://www.credly.com/badges/0d2fc24f-5292-42fe-8c6a-6efe1119597c/public_url" title="Exam 698: Installing and Configuring Windows 10"><img src="https://images.credly.com/images/8e38c272-55b0-49ed-8fff-98df6f91d549/Installing_and_Configuring_Windows_10-01.png" width="90" alt="Exam 698: Installing and Configuring Windows 10"/></a>
 </p>
 <!-- CREDLY:END -->
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/animsparrow/details/certifications/">
+    <img src="assets/certs_link.svg" alt="All badges, courses & certificates on LinkedIn" width="440"/>
+  </a>
+</p>
 ---
 
 ### 🧰 Stack
