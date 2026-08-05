@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" width="640" height="180" role="img" aria-label="TryHackMe stats for Animsparrow">
-  <title>TryHackMe — Animsparrow — Rank #786</title>
+  <title>TryHackMe — Animsparrow — Rank #786 — PL #22</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#1a0633"/><stop offset="100%" stop-color="#3a0a5e"/>
@@ -35,6 +35,12 @@
   <text x="612" y="56" fill="url(#rankg)" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="26" font-weight="700" text-anchor="end" filter="url(#glow)">#786</text>
   <text x="612" y="73" fill="#00F0FF" fill-opacity="0.9" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="10" font-weight="600" letter-spacing="1" text-anchor="end">TOP 1% WORLDWIDE</text>
 
+  <g transform="translate(612,84)">
+    <rect x="-92" y="0" width="16" height="11" rx="1.5" fill="#ffffff" stroke="#5C2A8A"/>
+    <rect x="-92" y="5.5" width="16" height="5.5" fill="#DC143C"/>
+    <text x="-70" y="9" fill="#A479C4" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="10" font-weight="600" letter-spacing="1.5">POLAND</text>
+    <text x="0" y="9" fill="#F8E8FF" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="14" font-weight="700" text-anchor="end">#22</text>
+  </g>
   <rect x="28" y="112" width="586" height="1" fill="url(#accg)"/>
 
   <g font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" text-anchor="middle">
