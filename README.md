@@ -31,10 +31,11 @@ methodology beats copy-paste. Everything below updates itself.
 ### 🏆 Highlights
 
 - 🥇 **TryHackMe - Top 1% worldwide** · #780 global · #22 in Poland (8M+ users) · 600+ rooms · 130-day streak
-- 🇬🇧 **6th place - TryHackMe AI Odyssey**, in-person AI-security CTF, London 2026 _(team Chrabąszcze)_
-- 🧠 **Top 6 globally, full score** - AI Odyssey online edition (~3000 teams)
+- 🇬🇧  **6th place - TryHackMe AI Odyssey**, in-person AI-security CTF, London 2026 _(team Chrabąszcze)_
+- 🧠 **6th place globally, full score** - AI Odyssey online edition (~3000 teams)
 - 🛡️ **Google Security Champion** - recognized for contributions to the Google SecOps community
-- ⚙️ Built **100+ SOC automations** saving ~150 hours/month of analyst work
+- ⚙️ Built **100+ Powershell automations** saving ~150 hours/month of administrator work
+- ⚙️ Built **200+ SOC automations** saving ~300 hours/month of analyst work
 - 🥷 **2nd place** - Microsoft Security FTA *Into The Breach* (live-fire) · Cyberbit Elite Analyst recognition
 - 👨‍🏫 **500+ mentees** across 2 editions of the Google Cybersecurity Cert @ INCO Academy
 - 🎤 Selected mentor - **HackYeah 2026**, TAURON Arena Kraków (one of Europe's largest hackathons)
@@ -50,9 +51,6 @@ methodology beats copy-paste. Everything below updates itself.
     <img src="assets/thm_badge.svg" alt="TryHackMe stats"/>
   </a>
 </p>
-<!-- THM_PL:START -->
-<p align="center">🇵🇱 <b>#22 in Poland</b> · <a href="https://tryhackme.com/leaderboards">leaderboard</a></p>
-<!-- THM_PL:END -->
 <!-- THM:END -->
 
 ---
