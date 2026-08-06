@@ -43,6 +43,21 @@ methodology beats copy-paste. Everything below updates itself.
 
 ---
 
+### 🗂️ Projects
+
+<p align="center">
+  <a href="https://github.com/AnimSparrow/thm-cert-reviews">
+    <img src="assets/proj_certs.svg" width="440" alt="THM Cert Reviews">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AnimSparrow/rooms">
+    <img src="assets/proj_rooms.svg" width="440" alt="Rooms — writeups">
+  </a>
+</p>
+
+---
+
 ### 🎯 TryHackMe — live
 
 <!-- THM:START -->
