@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 66" width="460" height="66" role="img" aria-label="THM CERT REVIEWS">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a0633"/><stop offset="100%" stop-color="#3a0a5e"/>
+    </linearGradient>
+  </defs>
+  <style>text{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace}</style>
+  <rect x="0.5" y="0.5" width="459" height="65" rx="12" fill="url(#bg)" stroke="#FF2A6D" stroke-opacity="0.40"/>
+  <path d="M 14,1 L 60,1 L 14,47 Z" fill="#FF2A6D" opacity="0.10"/>
+  <rect x="18" y="18" width="30" height="30" rx="6" fill="#00F0FF" fill-opacity="0.12" stroke="#00F0FF" stroke-opacity="0.5"/>
+  <text x="33" y="38" fill="#00F0FF" font-size="13" font-weight="700" text-anchor="middle">>_</text>
+  <text x="62" y="30" fill="#00F0FF" font-size="15" font-weight="700" letter-spacing="0.5">THM CERT REVIEWS</text>
+  <text x="62" y="48" fill="#A479C4" font-size="11" font-weight="600" letter-spacing="0.4">Honest reviews of TryHackMe certifications</text>
+  <text x="440" y="40" fill="#00F0FF" font-size="16" font-weight="700" text-anchor="end">&#8594;</text>
+</svg>
