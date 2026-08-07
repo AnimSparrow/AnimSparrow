@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" width="640" height="180" role="img" aria-label="TryHackMe stats for Animsparrow">
-  <title>TryHackMe — Animsparrow — Rank #776 — PL #22</title>
+  <title>TryHackMe — Animsparrow — Rank #774 — PL #22</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#1a0633"/><stop offset="100%" stop-color="#3a0a5e"/>
@@ -32,7 +32,7 @@
     <rect x="-88" y="0" width="88" height="17" rx="4" fill="#00F0FF" fill-opacity="0.12" stroke="#00F0FF" stroke-opacity="0.5"/>
     <text x="-44" y="12" fill="#00F0FF" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="10" font-weight="700" letter-spacing="2" text-anchor="middle">WORLD RANK</text>
   </g>
-  <text x="612" y="56" fill="url(#rankg)" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="26" font-weight="700" text-anchor="end" filter="url(#glow)">#776</text>
+  <text x="612" y="56" fill="url(#rankg)" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="26" font-weight="700" text-anchor="end" filter="url(#glow)">#774</text>
   <text x="612" y="73" fill="#00F0FF" fill-opacity="0.9" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="10" font-weight="600" letter-spacing="1" text-anchor="end">TOP 1% WORLDWIDE</text>
 
   <g transform="translate(612,84)">
@@ -44,11 +44,11 @@
   <rect x="28" y="112" width="586" height="1" fill="url(#accg)"/>
 
   <g font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" text-anchor="middle">
-    <text x="104" y="146" fill="#F8E8FF" font-size="23" font-weight="700">626</text>
+    <text x="104" y="146" fill="#F8E8FF" font-size="23" font-weight="700">627</text>
     <text x="104" y="165" fill="#A479C4" font-size="9" font-weight="600" letter-spacing="2.2">ROOMS</text>
     <text x="248" y="146" fill="#F8E8FF" font-size="23" font-weight="700">83</text>
     <text x="248" y="165" fill="#A479C4" font-size="9" font-weight="600" letter-spacing="2.2">BADGES</text>
-    <text x="392" y="146" fill="#F8E8FF" font-size="23" font-weight="700">94.3K</text>
+    <text x="392" y="146" fill="#F8E8FF" font-size="23" font-weight="700">94.4K</text>
     <text x="392" y="165" fill="#A479C4" font-size="9" font-weight="600" letter-spacing="2.2">POINTS</text>
     <text x="536" y="146" fill="#00F0FF" font-size="23" font-weight="700">101</text>
     <text x="536" y="165" fill="#A479C4" font-size="9" font-weight="600" letter-spacing="2.2">CAPABILITY</text>
