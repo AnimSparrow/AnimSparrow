@@ -68,6 +68,11 @@ methodology beats copy-paste. Everything below updates itself.
   </a>
 </p>
 <!-- THM:END -->
+<p align="center">
+  <a href="https://github.com/AnimSparrow/thm-cert-reviews">
+    <img src="https://raw.githubusercontent.com/AnimSparrow/thm-cert-reviews/main/assets/collection-scoreboard.svg" width="680" alt="THM Cert Collection Scoreboard — ranked by S.P.A.R.R.O.W.">
+  </a>
+</p>
 
 ---
 
@@ -96,6 +101,7 @@ methodology beats copy-paste. Everything below updates itself.
     <img src="assets/certs_link.svg" alt="All badges, courses & certificates on LinkedIn" width="440"/>
   </a>
 </p>
+
 ---
 
 ### 🧰 Stack
