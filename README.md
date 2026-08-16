@@ -52,9 +52,6 @@ methodology beats copy-paste. Everything below updates itself.
   </a>
 </p>
 <p align="center">
-  <img src="thm-cert-reviews/assets/collection-scoreboard.svg" width="780" alt="All seven TryHackMe certifications reviewed, ranked by S.P.A.R.R.O.W. score, average 7.16">
-</p>
-<p align="center">
   <a href="https://github.com/AnimSparrow/rooms">
     <img src="assets/proj_rooms.svg" width="440" alt="Rooms — writeups">
   </a>
