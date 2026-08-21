@@ -52,6 +52,11 @@ methodology beats copy-paste. Everything below updates itself.
   </a>
 </p>
 <p align="center">
+  <a href="https://github.com/AnimSparrow/thm-writeups">
+    <img src="assets/writeups_button.svg" width="440" alt="TryHackMe Writeups">
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/AnimSparrow/rooms">
     <img src="assets/proj_rooms.svg" width="440" alt="Rooms — writeups">
   </a>
