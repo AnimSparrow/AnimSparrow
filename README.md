@@ -47,17 +47,17 @@ methodology beats copy-paste. Everything below updates itself.
 ### 🗂️ Projects
 
 <p align="center">
-  <a href="https://github.com/AnimSparrow/thm-cert-reviews">
+  <a href="https://github.com/AnimSparrow/thm-cert-reviews/blob/main/README.md">
     <img src="assets/proj_certs.svg" width="440" alt="THM Cert Reviews">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/AnimSparrow/thm-writeups">
+  <a href="https://github.com/AnimSparrow/thm-writeups/blob/main/README.md">
     <img src="assets/writeups_button.svg" width="440" alt="TryHackMe Writeups">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/AnimSparrow/rooms">
+  <a href="https://github.com/AnimSparrow/rooms/blob/main/README.md">
     <img src="assets/proj_rooms.svg" width="440" alt="Rooms — writeups">
   </a>
 </p>
