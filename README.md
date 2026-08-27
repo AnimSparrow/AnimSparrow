@@ -84,8 +84,9 @@ methodology beats copy-paste. Everything below updates itself.
 ### 📜 Certs (Credly) — live
 
 <!-- CREDLY:START -->
-<p align="center"><b>13</b> verified certifications on Credly</p>
+<p align="center"><b>14</b> verified certifications on Credly</p>
 <p align="center">
+  <a href="https://www.credly.com/badges/079d0363-df4b-4961-a08e-aaa3da214a32/public_url" title="Foundations of Operationalizing MITRE ATT&CK v19"><img src="https://images.credly.com/images/a4556207-2a68-4d96-a691-a0b578d27d39/blob" width="90" alt="Foundations of Operationalizing MITRE ATT&CK v19"/></a>
   <a href="https://www.credly.com/badges/97ba977d-fdc1-4c97-af6e-2768233bac79/public_url" title="Security Analyst Level 2 (SAL2)"><img src="https://images.credly.com/images/26357fd8-c253-46dd-9f21-01ae89ebc074/blob" width="90" alt="Security Analyst Level 2 (SAL2)"/></a>
   <a href="https://www.credly.com/badges/8ec1e0a6-0fc3-4760-9586-11316183f754/public_url" title="Web Application Pentester Level 1"><img src="https://images.credly.com/images/358bd4ef-5b77-443f-9177-6b28b1def14a/blob" width="90" alt="Web Application Pentester Level 1"/></a>
   <a href="https://www.credly.com/badges/32b68282-1592-4a4c-8e84-53dd3b4077f7/public_url" title="Security Analyst Level 1 (SAL1)"><img src="https://images.credly.com/images/fc0df734-6716-45ba-8563-9fd0eba18373/blob" width="90" alt="Security Analyst Level 1 (SAL1)"/></a>
