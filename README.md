@@ -69,7 +69,7 @@ methodology beats copy-paste. Everything below updates itself.
 <!-- THM:START -->
 <p align="center">
   <a href="https://tryhackme.com/p/Animsparrow">
-    <img src="assets/thm_badge.svg?v=922c018e" alt="TryHackMe stats"/>
+    <img src="assets/thm_badge.svg?v=6f5a2a38" alt="TryHackMe stats"/>
   </a>
 </p>
 <!-- THM:END -->
@@ -84,8 +84,9 @@ methodology beats copy-paste. Everything below updates itself.
 ### 📜 Certs (Credly) — live
 
 <!-- CREDLY:START -->
-<p align="center"><b>14</b> verified certifications on Credly</p>
+<p align="center"><b>15</b> verified certifications on Credly</p>
 <p align="center">
+  <a href="https://www.credly.com/badges/38417ac6-399e-4627-8590-a5ba2039f084/public_url" title="Foundations of Purple Teaming"><img src="https://images.credly.com/images/ae9d6f85-418e-45d1-b0fc-4f44fc6708f3/Foundations_of_Purple_Teaming_Badge.png" width="90" alt="Foundations of Purple Teaming"/></a>
   <a href="https://www.credly.com/badges/079d0363-df4b-4961-a08e-aaa3da214a32/public_url" title="Foundations of Operationalizing MITRE ATT&CK v19"><img src="https://images.credly.com/images/a4556207-2a68-4d96-a691-a0b578d27d39/blob" width="90" alt="Foundations of Operationalizing MITRE ATT&CK v19"/></a>
   <a href="https://www.credly.com/badges/97ba977d-fdc1-4c97-af6e-2768233bac79/public_url" title="Security Analyst Level 2 (SAL2)"><img src="https://images.credly.com/images/26357fd8-c253-46dd-9f21-01ae89ebc074/blob" width="90" alt="Security Analyst Level 2 (SAL2)"/></a>
   <a href="https://www.credly.com/badges/8ec1e0a6-0fc3-4760-9586-11316183f754/public_url" title="Web Application Pentester Level 1"><img src="https://images.credly.com/images/358bd4ef-5b77-443f-9177-6b28b1def14a/blob" width="90" alt="Web Application Pentester Level 1"/></a>
