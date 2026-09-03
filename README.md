@@ -69,7 +69,7 @@ methodology beats copy-paste. Everything below updates itself.
 <!-- THM:START -->
 <p align="center">
   <a href="https://tryhackme.com/p/Animsparrow">
-    <img src="assets/thm_badge.svg?v=1760f561" alt="TryHackMe stats"/>
+    <img src="assets/thm_badge.svg?v=e784e1a7" alt="TryHackMe stats"/>
   </a>
 </p>
 <!-- THM:END -->
@@ -84,8 +84,9 @@ methodology beats copy-paste. Everything below updates itself.
 ### 📜 Certs (Credly) — live
 
 <!-- CREDLY:START -->
-<p align="center"><b>16</b> verified certifications on Credly</p>
+<p align="center"><b>17</b> verified certifications on Credly</p>
 <p align="center">
+  <a href="https://www.credly.com/badges/13a34e7f-4446-4e47-a3cd-14248b449570/public_url" title="Foundations of AI Security"><img src="https://images.credly.com/images/fc7a7fc0-856d-48db-804f-ea33d158daf0/image.png" width="90" alt="Foundations of AI Security"/></a>
   <a href="https://www.credly.com/badges/8298af22-a273-460d-94ac-66dd04374d7e/public_url" title="Foundations of Breach & Attack Simulation"><img src="https://images.credly.com/images/af2c22ad-233c-481c-bab9-e7cbc1596e71/Foundations_of_BAS_Badge.png" width="90" alt="Foundations of Breach & Attack Simulation"/></a>
   <a href="https://www.credly.com/badges/38417ac6-399e-4627-8590-a5ba2039f084/public_url" title="Foundations of Purple Teaming"><img src="https://images.credly.com/images/ae9d6f85-418e-45d1-b0fc-4f44fc6708f3/Foundations_of_Purple_Teaming_Badge.png" width="90" alt="Foundations of Purple Teaming"/></a>
   <a href="https://www.credly.com/badges/079d0363-df4b-4961-a08e-aaa3da214a32/public_url" title="Foundations of Operationalizing MITRE ATT&CK v19"><img src="https://images.credly.com/images/a4556207-2a68-4d96-a691-a0b578d27d39/blob" width="90" alt="Foundations of Operationalizing MITRE ATT&CK v19"/></a>
