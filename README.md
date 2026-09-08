@@ -31,9 +31,6 @@ methodology beats copy-paste. Everything below updates itself.
 ### 🏆 Highlights
 
 - 🏅 **First person worldwide to hold every TryHackMe certification** · complete 7/7 set (confirmed with THM admin, 07.08.2026)
-<!-- HL:START -->
-- 🥇 **TryHackMe — Top 1% worldwide** · #780 global · #22 in Poland (8M+ users) · 600+ rooms
-<!-- HL:END -->
 - 🇬🇧  **6th place - TryHackMe AI Odyssey**, in-person AI-security CTF, London 2026 _(team Chrabąszcze)_
 - 🧠 **6th place globally, full score** - AI Odyssey online edition (~3000 teams)
 - 🛡️ **Google Security Champion** - recognized for contributions to the Google SecOps community
@@ -43,6 +40,9 @@ methodology beats copy-paste. Everything below updates itself.
 - 👨‍🏫 **500+ mentees** across 2 editions of the Google Cybersecurity Cert @ INCO Academy
 - 🎤 Selected mentor - **HackYeah 2026**, TAURON Arena Kraków (one of Europe's largest hackathons)
 - 🧙 **Lakera Gandalf** - all 7 levels + bonus lvl 8 (LLM / prompt-injection security)
+<!-- HL:START -->
+- 🥇 **TryHackMe — Top 1% worldwide** · #780 global · #22 in Poland (8M+ users) · 600+ rooms
+<!-- HL:END -->
 
 ---
 
