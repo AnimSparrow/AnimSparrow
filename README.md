@@ -61,6 +61,11 @@ methodology beats copy-paste. Everything below updates itself.
     <img src="assets/proj_rooms.svg" width="440" alt="Rooms — writeups">
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/AnimSparrow/AWS-Security-Path/blob/main/README.md">
+    <img src="assets/proj_aws.svg" width="440" alt="AWS Security Path — writeups">
+  </a>
+</p>
 
 ---
 
