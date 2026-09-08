@@ -44,11 +44,11 @@
   <rect x="28" y="112" width="586" height="1" fill="url(#accg)"/>
 
   <g font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" text-anchor="middle">
-    <text x="104" y="146" fill="#F8E8FF" font-size="23" font-weight="700">720</text>
+    <text x="104" y="146" fill="#F8E8FF" font-size="23" font-weight="700">722</text>
     <text x="104" y="165" fill="#A479C4" font-size="9" font-weight="600" letter-spacing="2.2">ROOMS</text>
     <text x="248" y="146" fill="#F8E8FF" font-size="23" font-weight="700">91</text>
     <text x="248" y="165" fill="#A479C4" font-size="9" font-weight="600" letter-spacing="2.2">BADGES</text>
-    <text x="392" y="146" fill="#F8E8FF" font-size="23" font-weight="700">108.6K</text>
+    <text x="392" y="146" fill="#F8E8FF" font-size="23" font-weight="700">108.7K</text>
     <text x="392" y="165" fill="#A479C4" font-size="9" font-weight="600" letter-spacing="2.2">POINTS</text>
     <text x="536" y="146" fill="#00F0FF" font-size="23" font-weight="700">104</text>
     <text x="536" y="165" fill="#A479C4" font-size="9" font-weight="600" letter-spacing="2.2">CAPABILITY</text>
