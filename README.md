@@ -31,7 +31,9 @@ methodology beats copy-paste. Everything below updates itself.
 ### 🏆 Highlights
 
 - 🏅 **First person worldwide to hold every TryHackMe certification** · complete 7/7 set (confirmed with THM admin, 07.08.2026)
-- 🥇 **TryHackMe - Top 1% worldwide** · #780 global · #22 in Poland (8M+ users) · 600+ rooms · 130-day streak
+<!-- HL:START -->
+- 🥇 **TryHackMe — Top 1% worldwide** · #780 global · #22 in Poland (8M+ users) · 600+ rooms
+<!-- HL:END -->
 - 🇬🇧  **6th place - TryHackMe AI Odyssey**, in-person AI-security CTF, London 2026 _(team Chrabąszcze)_
 - 🧠 **6th place globally, full score** - AI Odyssey online edition (~3000 teams)
 - 🛡️ **Google Security Champion** - recognized for contributions to the Google SecOps community
@@ -133,6 +135,7 @@ methodology beats copy-paste. Everything below updates itself.
 
 **Vuln / IR**  
 ![Tenable](https://img.shields.io/badge/Tenable-00375B?style=flat-square)
+![Qualys](https://img.shields.io/badge/Qualys-ED2E26?style=flat-square&logo=qualys&logoColor=white)
 ![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)
 ![Cortex XSOAR](https://img.shields.io/badge/Cortex_XSOAR-2D2D2D?style=flat-square)
 
@@ -148,3 +151,4 @@ methodology beats copy-paste. Everything below updates itself.
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID_(Azure_AD)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
