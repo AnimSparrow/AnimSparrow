@@ -40,7 +40,7 @@ methodology beats copy-paste. Everything below updates itself.
 - 👨‍🏫 **500+ mentees** across 2 editions of the Google Cybersecurity Cert @ INCO Academy
 - 🎤 Selected mentor - **HackYeah 2026**, TAURON Arena Kraków (one of Europe's largest hackathons)
 - 🧙 **Lakera Gandalf** - all 7 levels + bonus lvl 8 (LLM / prompt-injection security)
-- <!-- HL:START -->🥇 **TryHackMe — Top 1% worldwide** · #504 global · #18 in Poland (8M+ users) · 700+ rooms<!-- HL:END -->
+- <!-- HL:START -->🥇 **TryHackMe — Top 1% worldwide** · #496 global · #18 in Poland (8M+ users) · 700+ rooms<!-- HL:END -->
 
 ---
 
@@ -74,7 +74,7 @@ methodology beats copy-paste. Everything below updates itself.
 <!-- THM:START -->
 <p align="center">
   <a href="https://tryhackme.com/p/Animsparrow">
-    <img src="assets/thm_badge.svg?v=08a18a78" alt="TryHackMe stats"/>
+    <img src="assets/thm_badge.svg?v=b5eb09ab" alt="TryHackMe stats"/>
   </a>
 </p>
 <!-- THM:END -->
