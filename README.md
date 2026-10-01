@@ -30,7 +30,7 @@ methodology beats copy-paste. Everything below updates itself.
 
 ### 🏆 Highlights
 
-- 🏅 **First person worldwide to hold every TryHackMe certification** · complete 7/7 set (confirmed with THM admin, 07.08.2026)
+- 🏅 **First person worldwide to hold every TryHackMe certification** TWICE · complete 7/7 set (07.08.2026) and 8/8 (30.09.2026)
 - 🇬🇧  **6th place - TryHackMe AI Odyssey**, in-person AI-security CTF, London 2026 _(team Chrabąszcze)_
 - 🧠 **6th place globally, full score** - AI Odyssey online edition (~3000 teams)
 - 🛡️ **Google Security Champion** - recognized for contributions to the Google SecOps community
