@@ -44,7 +44,7 @@
   <rect x="28" y="112" width="586" height="1" fill="url(#accg)"/>
 
   <g font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" text-anchor="middle">
-    <text x="104" y="146" fill="#F8E8FF" font-size="23" font-weight="700">803</text>
+    <text x="104" y="146" fill="#F8E8FF" font-size="23" font-weight="700">807</text>
     <text x="104" y="165" fill="#A479C4" font-size="9" font-weight="600" letter-spacing="2.2">ROOMS</text>
     <text x="248" y="146" fill="#F8E8FF" font-size="23" font-weight="700">95</text>
     <text x="248" y="165" fill="#A479C4" font-size="9" font-weight="600" letter-spacing="2.2">BADGES</text>
