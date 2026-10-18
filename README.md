@@ -110,6 +110,17 @@ methodology beats copy-paste. Everything below updates itself.
   <a href="https://www.credly.com/badges/c8ffb7f5-3d98-4075-b6d2-e56948de3df3/public_url" title="OpenHack: Security, Compliance, and Identity"><img src="https://images.credly.com/images/772811b6-ba72-4637-8104-a6a9ca08acc2/SCI_Challange_Complete_OpenHack_600X600.png" width="90" alt="OpenHack: Security, Compliance, and Identity"/></a>
   <a href="https://www.credly.com/badges/0d2fc24f-5292-42fe-8c6a-6efe1119597c/public_url" title="Exam 698: Installing and Configuring Windows 10"><img src="https://images.credly.com/images/8e38c272-55b0-49ed-8fff-98df6f91d549/Installing_and_Configuring_Windows_10-01.png" width="90" alt="Exam 698: Installing and Configuring Windows 10"/></a>
 </p>
+
+<p align="center"><b>7</b> more — hands-on &amp; external</p>
+<p align="center">
+  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="Cyber Defense Analyst"><img src="https://images.credly.com/images/ba8c3846-d09e-4df5-9fda-1a0ebe7f10ff/dbb002e3-5617-4a63-82bb-b80f356ab881_cached_image_20261018-33-p0vk3y.png" width="90" alt="Cyber Defense Analyst"/></a>
+  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="L3 SOC Analyst"><img src="https://images.credly.com/images/c33c2729-e933-4081-ae81-39dced306690/9eafa9ae-6c28-4990-addf-eaf1c4a824a1_cached_image_20261018-33-rkri1n.png" width="90" alt="L3 SOC Analyst"/></a>
+  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="L2 SOC Analyst Elite"><img src="https://images.credly.com/images/bac27b1f-1c65-464e-a77a-63997772327a/bd306fcc-58c7-4d48-9fb0-6d41391afc14_cached_image_20261014-34-qnbsk6.png" width="90" alt="L2 SOC Analyst Elite"/></a>
+  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="L2 SOC Analyst"><img src="https://images.credly.com/images/0f9020bd-72e3-4e78-8276-fbc888bcf467/723fd354-0402-4c2f-bf75-6c74a0e95f69_cached_image_20261014-34-hbngm7.png" width="90" alt="L2 SOC Analyst"/></a>
+  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="Junior SOC Analyst 1 Elite"><img src="https://images.credly.com/images/75b8acf5-43c2-4d95-bc80-087040f112d3/caae33bc-b104-467a-ae4c-18e87140a4f7_cached_image_20261014-32-iit3h6.png" width="90" alt="Junior SOC Analyst 1 Elite"/></a>
+  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="Cybersecurity Foundations"><img src="https://images.credly.com/images/9dd41787-d91b-41e0-b5c8-e69bc2172dfc/20cf4881-972a-47b5-9790-fa905f25b8b6_cached_image_20261014-34-try5gk.png" width="90" alt="Cybersecurity Foundations"/></a>
+  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="Cybersecurity Foundations Elite"><img src="https://images.credly.com/images/864fa8d6-c46c-437b-b5be-d629a68aa300/03091620-8631-4f92-9ee1-005e6c796daa_cached_image_20261014-34-gk4uj9.png" width="90" alt="Cybersecurity Foundations Elite"/></a>
+</p>
 <!-- CREDLY:END -->
 <p align="center">
   <a href="https://www.linkedin.com/in/animsparrow/details/certifications/">
