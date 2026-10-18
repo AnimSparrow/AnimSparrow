@@ -74,7 +74,7 @@ methodology beats copy-paste. Everything below updates itself.
 <!-- THM:START -->
 <p align="center">
   <a href="https://tryhackme.com/p/Animsparrow">
-    <img src="assets/thm_badge.svg?v=11ca856a" alt="TryHackMe stats"/>
+    <img src="assets/thm_badge.svg?v=bfe3ab44" alt="TryHackMe stats"/>
   </a>
 </p>
 <!-- THM:END -->
