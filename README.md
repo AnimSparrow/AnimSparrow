@@ -40,7 +40,7 @@ methodology beats copy-paste. Everything below updates itself.
 - 👨‍🏫 **500+ mentees** across 2 editions of the Google Cybersecurity Cert @ INCO Academy
 - 🎤 Selected mentor - **HackYeah 2026**, TAURON Arena Kraków (one of Europe's largest hackathons)
 - 🧙 **Lakera Gandalf** - all 7 levels + bonus lvl 8 (LLM / prompt-injection security)
-- <!-- HL:START -->🥇 **TryHackMe — Top 1% worldwide** · #361 global · #12 in Poland (8M+ users) · 800+ rooms<!-- HL:END -->
+- <!-- HL:START -->🥇 **TryHackMe — Top 1% worldwide** · #362 global · #12 in Poland (8M+ users) · 800+ rooms<!-- HL:END -->
 
 ---
 
@@ -74,7 +74,7 @@ methodology beats copy-paste. Everything below updates itself.
 <!-- THM:START -->
 <p align="center">
   <a href="https://tryhackme.com/p/Animsparrow">
-    <img src="assets/thm_badge.svg?v=003ac08c" alt="TryHackMe stats"/>
+    <img src="assets/thm_badge.svg?v=4edc0ceb" alt="TryHackMe stats"/>
   </a>
 </p>
 <!-- THM:END -->
@@ -111,8 +111,10 @@ methodology beats copy-paste. Everything below updates itself.
   <a href="https://www.credly.com/badges/0d2fc24f-5292-42fe-8c6a-6efe1119597c/public_url" title="Exam 698: Installing and Configuring Windows 10"><img src="https://images.credly.com/images/8e38c272-55b0-49ed-8fff-98df6f91d549/Installing_and_Configuring_Windows_10-01.png" width="90" alt="Exam 698: Installing and Configuring Windows 10"/></a>
 </p>
 
-<p align="center"><b>7</b> more — hands-on &amp; external</p>
+<p align="center"><b>9</b> more — hands-on &amp; external</p>
 <p align="center">
+  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="Cyberbit Readiness Incident Responder"><img src="https://images.credly.com/images/2fc97c31-845c-41dd-82a2-10eb54153502/9ab85d6c-62fd-458c-a52a-e6cf77c3f739_cached_image_20261025-9-ni4i72.png" width="90" alt="Cyberbit Readiness Incident Responder"/></a>
+  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="Incident Responder"><img src="https://images.credly.com/images/9daab088-04bc-4034-9b91-f12bb7c5a405/943cc008-0577-4501-9b5a-c8ac5cf5a055_cached_image_20261025-31-2old2y.png" width="90" alt="Incident Responder"/></a>
   <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="Cyber Defense Analyst"><img src="https://images.credly.com/images/ba8c3846-d09e-4df5-9fda-1a0ebe7f10ff/dbb002e3-5617-4a63-82bb-b80f356ab881_cached_image_20261018-33-p0vk3y.png" width="90" alt="Cyber Defense Analyst"/></a>
   <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="L3 SOC Analyst"><img src="https://images.credly.com/images/c33c2729-e933-4081-ae81-39dced306690/9eafa9ae-6c28-4990-addf-eaf1c4a824a1_cached_image_20261018-33-rkri1n.png" width="90" alt="L3 SOC Analyst"/></a>
   <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges/other" title="L2 SOC Analyst Elite"><img src="https://images.credly.com/images/bac27b1f-1c65-464e-a77a-63997772327a/bd306fcc-58c7-4d48-9fb0-6d41391afc14_cached_image_20261014-34-qnbsk6.png" width="90" alt="L2 SOC Analyst Elite"/></a>
