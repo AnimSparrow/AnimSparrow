@@ -19,27 +19,35 @@
 
 ### 🛡️ About
 
-Cybersecurity Architect & Team Manager, 10+ years in IT. Built a full **Google SecOps
-(Chronicle) SOAR** platform greenfield from scratch, after years of **Splunk SOAR**
-automation. Former AD/IAM engineer - identity attack surface is home turf.
-**Google Security Champion**, active CTF competitor, and mentor to 500+ people getting
-into the field. I break boxes on TryHackMe for the reps and publish write-ups because
-methodology beats copy-paste. Everything below updates itself.
+Cybersecurity Architect & Team Manager, 10+ years in IT. Came into security through
+the side door: years as an **AD/IAM engineer**, so identity attack surface is home turf.
+Built **450+ SOAR automations** across **Splunk SOAR** and a greenfield **Google SecOps
+(Chronicle) SOAR** platform. **Google Security Champion**.
+I lead a team of ten and have sat on **200+ hiring interviews**, so I know both sides of the
+CV. Mentor to **700+ people** getting into the field, 7 of my 1:1 mentees already work in cyber.
+First person to hold **every TryHackMe certification**, active CTF competitor, and I publish
+write-ups because methodology beats copy-paste. The TryHackMe and Credly sections below update themselves.
 
 ---
 
 ### 🏆 Highlights
 
 - 🏅 **First person worldwide to hold every TryHackMe certification** TWICE · complete 7/7 set (07.08.2026) and 8/8 (30.09.2026)
-- 🇬🇧  **6th place - TryHackMe AI Odyssey**, in-person AI-security CTF, London 2026 _(team Chrabąszcze)_
-- 🧠 **6th place globally, full score** - AI Odyssey online edition (~3000 teams)
+- 📰 **Featured by TryHackMe** · [success story](https://tryhackme.com/resources/blog/karol-wroblewskis-story) + [interview on mentorship & hiring](https://tryhackme.com/resources/blog/in-conversation-with-karol-wroblewski-of-fresenius-group-on-mentorship-and-why-the-way-into-cyber-is-sometimes-through-the-window) + [live webinar: *Unlucky in Job Hunting? A Hiring Manager and an Exam Builder Explain*](https://www.youtube.com/live/TP1iQ9Ch3kE)
 - 🛡️ **Google Security Champion** - recognized for contributions to the Google SecOps community
 - ⚙️ Built **100+ Powershell automations** saving ~150 hours/month of administrator work
-- ⚙️ Built **200+ SOC automations** saving ~300 hours/month of analyst work
+- ⚙️ Built **150+ Splunk SOAR automations** saving ~250 hours/month of analyst work
+- ⚙️ Built **300+ Google SecOps SOAR automations** saving ~450 hours/month of analyst work
+- 👨‍🏫 **700+ mentees** across 3 editions of the Google Cybersecurity Cert + a mentoring program @ INCO Academy · author of **NordVita**, an 8-part hands-on IR challenge for the course
+- 🤝 **15 personal 1:1 mentees** · 7 of them have already landed jobs in cybersecurity
+- 🎙️ Panelist - INCO Academy graduate event, Warsaw 2026 _("What decides who gets hired today? The team managers' perspective")_
+- 🎤 Mentor & **judge of the Defence category** - **HackYeah 2026**, TAURON Arena Kraków (one of Europe's largest hackathons)
+- 🥇 **1st place - NASK OSINT CTF, PRO Final** (2026) · 118 pts, zero AI assistance
 - 🥷 **2nd place** - Microsoft Security FTA *Into The Breach* (live-fire) · Cyberbit Elite Analyst recognition
-- 👨‍🏫 **500+ mentees** across 2 editions of the Google Cybersecurity Cert @ INCO Academy
-- 🎤 Selected mentor - **HackYeah 2026**, TAURON Arena Kraków (one of Europe's largest hackathons)
-- 🧙 **Lakera Gandalf** - all 7 levels + bonus lvl 8 (LLM / prompt-injection security)
+- 🇬🇧  **6th place - TryHackMe AI Odyssey**, in-person AI-security CTF, London 2026 _(team Chrabąszcze)_
+- 🧠 **6th place globally, full score** - AI Odyssey online edition (~3000 teams)
+- 🧊 **7th / 1,716 teams - Operation Cymbal: Cold Room CTF** (Google Cloud Security × Hack The Box) · solo, 18/18 challenges
+- 🪲 **12th / 1,627 teams - TryHackMe Downtime CTF** _(team Chrabąszcze)_
 - <!-- HL:START -->🥇 **TryHackMe — Top 1% worldwide** · #263 global · #10 in Poland (8M+ users) · 850+ rooms<!-- HL:END -->
 
 ---
