@@ -48,7 +48,7 @@ write-ups because methodology beats copy-paste. The TryHackMe and Credly section
 - 🧠 **6th place globally, full score** - AI Odyssey online edition (~3000 teams)
 - 🧊 **7th / 1,716 teams - Operation Cymbal: Cold Room CTF** (Google Cloud Security × Hack The Box) · solo, 18/18 challenges
 - 🪲 **12th / 1,627 teams - TryHackMe Downtime CTF** _(team Chrabąszcze)_
-- <!-- HL:START -->🥇 **TryHackMe — Top 1% worldwide** · #248 global · #9 in Poland (8M+ users) · 850+ rooms<!-- HL:END -->
+- <!-- HL:START -->🥇 **TryHackMe — Top 1% worldwide** · #243 global · #9 in Poland (8M+ users) · 850+ rooms<!-- HL:END -->
 
 ---
 
@@ -82,7 +82,7 @@ write-ups because methodology beats copy-paste. The TryHackMe and Credly section
 <!-- THM:START -->
 <p align="center">
   <a href="https://tryhackme.com/p/Animsparrow">
-    <img src="assets/thm_badge.svg?v=db0442a5" alt="TryHackMe stats"/>
+    <img src="assets/thm_badge.svg?v=6c2ea99b" alt="TryHackMe stats"/>
   </a>
 </p>
 <!-- THM:END -->
