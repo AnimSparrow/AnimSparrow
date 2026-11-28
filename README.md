@@ -82,7 +82,7 @@ write-ups because methodology beats copy-paste. The TryHackMe and Credly section
 <!-- THM:START -->
 <p align="center">
   <a href="https://tryhackme.com/p/Animsparrow">
-    <img src="assets/thm_badge.svg?v=fb2d887a" alt="TryHackMe stats"/>
+    <img src="assets/thm_badge.svg?v=017c9488" alt="TryHackMe stats"/>
   </a>
 </p>
 <!-- THM:END -->
